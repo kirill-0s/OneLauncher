@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "OneLauncher"
+
+[ejs.landing]
+mediaGitHubURL = "https://discord.razorbot.net"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.razorbot.net"
+
+[ejs.settings]
+sourceGithubLink = "https://discord.razorbot.net"
+supportLink = "https://discord.razorbot.net"
+
+[ejs.welcome]
+welcomeHeader = "BENVENUTO/A SU ONELAUNCHER"
+welcomeDescription = ""
+welcomeDescCTA = "Copyright © 2026 Razor Studios"
